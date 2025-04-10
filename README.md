@@ -20,7 +20,6 @@
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
 ### Дополнительные навыки
 - Статистический анализ
